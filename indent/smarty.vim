@@ -1,10 +1,5 @@
 " Description:	Smarty Indenter
 " Author: Jun Katagiri <katagiri.jun2@gmail.com>	
-" Last Change:	Mo, 05 Jun 2006 22:32:41 CEST
-" 		Restoring 'cpo' and 'ic' added by Bram 2006 May 5
-" Globals:	g:html_indent_tags	   -- indenting tags
-"		g:html_indent_strict       -- inhibit 'O O' elements
-"		g:html_indent_strict_table -- inhibit 'O -' elements
 
 " Only load this indent file when no other was loaded.
 if exists("b:did_indent")
