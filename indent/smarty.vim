@@ -96,7 +96,7 @@ call <SID>HtmlIndentPush('u')
 call <SID>HtmlIndentPush('ul')
 call <SID>HtmlIndentPush('var')
 " HTML5
-call <SID>HtmlIndentPush('select')
+call <SID>HtmlIndentPush('section')
 call <SID>HtmlIndentPush('article')
 call <SID>HtmlIndentPush('header')
 call <SID>HtmlIndentPush('footer')
